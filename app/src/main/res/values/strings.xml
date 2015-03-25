@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test_">Test_Activity</string>
+    <string name="title_activity_play_sound">PlaySound</string>
+
+    <color name="red">#ff0000</color>
+    <color name="blue">#0000ff</color>
+    <color name="green">#259b24</color>
+    <color name="purple">#ff00ff</color>
+    <color name="black">#000000</color>
+    <color name="neutral">#c9c9c9</color>
+    <color name="grey">#999999</color>
+    <color name="charcoal">#303030</color>
+
+    <string name="intro_fragment_welcome">Doppler for Android Demo</string>
+    <string name="intro_fragment_subtitle">Please give us a moment to calibrate our system for you</string>
+    <string name="graph_fragment_intro">The graph above shows the amplitudes of frequencies around 20 khz.
+        Try playing around with it by moving your hand near your phone\'s mic.</string>
+    <string name="graph_fragment_2">Because of the doppler effect, the frequency being played
+    shifts around as you move your hand closer or further away from the mic.</string>
+    <string name="graph_fragment_3">This phenomenon is used here to detect four distinct gestures: </string>
+    <string name="graph_fragment_4">You can try it out by moving your hand closer or further away from your mic.</string>
+    <string name="graph_fragment_5">When you\'re ready, perform a Double Tap gesture to unlock gesture
+        control and then a Pull gesture to move to the next page.</string>
+    <string name="demo_text_1">This page demonstrates the most obvious use for Doppler.</string>
+    <string name="demo_text_2">You can focus on to this page by performing a Tap gesture,
+        and then scroll using the Push and Pull gestures.</string>
+    <string name="demo_text_3">When you\'re ready, just turn off page focus by tapping again, and go to the next page.</string>
+    <string name="lorem_ipsum">"On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains."\n
+"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"</string>
+
+    <string name="conclusion_text">I hope you enjoyed the demo. If you would like to contribute to or use Doppler
+    in your own Android projects, feel free to check out the project on GitHub at https://github.com/jasper-lu/doppler-android</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

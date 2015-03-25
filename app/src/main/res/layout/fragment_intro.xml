@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp"
+    tools:context="com.jasperlu.test.IntroFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/intro_fragment_welcome"
+        android:gravity="center_horizontal"
+        android:fontFamily="sans-serif-light"
+        android:textSize="36dp"
+        android:textColor="#505050"/>
+
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/intro_fragment_subtitle"
+        android:textSize="24dp"/>
+
+    <ProgressBar
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="36dp"
+        android:indeterminateOnly="true"/>
+</LinearLayout >
